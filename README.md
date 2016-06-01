@@ -2,13 +2,16 @@
 Demo project created to show people around Spring Boot during my workshops
 
 ##Topics covered
-* Spring Boot
+
+###Spring Boot
 * REST
 * Spring Data
 * MongoDB
 * Unit tests (using MockMvc)
 * Integration tests (using no-sql-unit)
 * Swagger
+
+###Countinuous deployment
 * Heroku
 * Travis
 * coveralls
